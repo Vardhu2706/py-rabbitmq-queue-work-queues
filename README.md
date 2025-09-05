@@ -40,5 +40,5 @@ Workers will share the load, and each dot (.) simulates one second of work.
 
 ## Reference
 
-Tutorial #1: https://github.com/Vardhu2706/py-rabbitmq-queue-helloworld
-Official tutorial: https://www.rabbitmq.com/tutorials/tutorial-two-python
+- Tutorial #1: https://github.com/Vardhu2706/py-rabbitmq-queue-helloworld
+- Official tutorial: https://www.rabbitmq.com/tutorials/tutorial-two-python
